@@ -54,6 +54,7 @@ include 'connect.php';
         <button id="add_btn"><a href="./add_info.php">Add Data</a></button>
       </div>
       <div class="table_box">
+        <hr>
         <table class="table">
           <thead>
             <tr>

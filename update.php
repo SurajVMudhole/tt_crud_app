@@ -105,7 +105,7 @@ if(isset($_POST['update'])){
               name="phone"
               value="<?php echo $Phone;?>"
               class="form-control"
-              autocomplete="off"
+              
               
             />
           </div>
